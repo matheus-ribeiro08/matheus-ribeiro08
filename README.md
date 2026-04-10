@@ -49,9 +49,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
 </a>
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/5b05f5d1-d345-4093-8e08-bbd2476234a2" />
-</div>
