@@ -3,7 +3,7 @@
   
 ## About Me
 
-Olá Meu nome é Matheus! ⚡
+Olá, Meu nome é Matheus! ⚡
 
 - 📚 Estudante Técnico em Informática para Internet na WEG.
 - 🎯 Focando na aprendizagem em desenvolver sistemas e ampliar cada vez mais meu conhecimento.
