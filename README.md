@@ -27,7 +27,7 @@ Olá, Meu nome é Matheus! ⚡
   
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-414245.svg?style=for-the-badge&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) 
+![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-414245?logo=css&logoColor=1572B6&style=for-the-badge)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 
 <div align="start" style="display: inline_block">
 
