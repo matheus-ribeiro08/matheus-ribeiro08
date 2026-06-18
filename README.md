@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B6CA8&height=120&section=header"/>
 <div align="start">
   
-## Sobre Mim
+## About Me
 
 Olá Meu nome é Matheus! ⚡
 
