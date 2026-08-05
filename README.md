@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B6CA8&height=120&section=header"/>
 <div align="start">
   
-## About Me - Developer
+## About Me
 
+Developer
 Hi, my name is Matheus! ⚡
 
 - 📚 I’m a student in the Internet IT Technician program at WEG.
