@@ -2,9 +2,6 @@
 <div align="start">
   
 ## About Me
-
-Developer
-<br>
 Hi, my name is Matheus! ⚡
 
 - 📚 I’m a student in the Internet IT Technician program at WEG.
