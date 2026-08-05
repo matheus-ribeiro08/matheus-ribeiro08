@@ -20,7 +20,7 @@ Hi, my name is Matheus! ⚡
 
 ### Back-End
 
-![Java](https://img.shields.io/badge/java-414245.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)  ![Python](https://img.shields.io/badge/python-414245?style=for-the-badge&logo=python&logoColor=3776AB) 
+![Java](https://img.shields.io/badge/java-414245.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)  ![Python](https://img.shields.io/badge/python-414245?style=for-the-badge&logo=python&logoColor=3776AB) ![Spring](https://img.shields.io/badge/spring-414245.svg?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
 <div align="start" style="display: inline_block">
   
