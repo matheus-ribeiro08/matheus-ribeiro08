@@ -3,11 +3,11 @@
   
 ## About Me
 
-Olá, Meu nome é Matheus! ⚡
+Hi, my name is Matheus! ⚡
 
-- 📚 Estudante Técnico em Informática para Internet na WEG.
-- 🎯 Focando na aprendizagem em desenvolver sistemas e ampliar cada vez mais meu conhecimento.
-- 📫 Contato: matheus_fa_ribeiro@estudante.sesisenai.org.br
+- 📚 I’m a student in the Internet IT Technician program at WEG.
+- 🎯 I’m focused on learning how to develop systems and continually expanding my knowledge.
+- 📫 Contact: matheus_fa_ribeiro@estudante.sesisenai.org.br
 
 </div>
 
