@@ -33,6 +33,7 @@ Hi, my name is Matheus! ⚡
 ### Databases
   
 ![MySQL](https://img.shields.io/badge/mysql-414245.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostegreSQL](https://img.shields.io/badge/PostgreSQL-414245?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 <div align="start" style="display: inline_block">
