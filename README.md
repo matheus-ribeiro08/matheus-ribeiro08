@@ -26,7 +26,7 @@ Hi, my name is Matheus! ⚡
   
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-414245?logo=css&logoColor=1572B6&style=for-the-badge)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) 
+![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-414245?logo=css&logoColor=1572B6&style=for-the-badge)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) ![TypeScript](https://img.shields.io/badge/TypeScript-414245?style=for-the-badge&logo=typescript&logoColor=3178C6)  ![Next](https://img.shields.io/badge/Next-414245?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-414245?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-414245?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
 
 <div align="start" style="display: inline_block">
 
@@ -40,7 +40,7 @@ Hi, my name is Matheus! ⚡
 
 ### Other Technologies
 
-![Git](https://img.shields.io/badge/git-414245.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-414245?style=for-the-badge&logo=docker&logoColor=2496ED) 	
+![Git](https://img.shields.io/badge/git-414245.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-414245?style=for-the-badge&logo=docker&logoColor=2496ED) 	![Postman](https://img.shields.io/badge/Postman-414245.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 </div>
 
 <br>
