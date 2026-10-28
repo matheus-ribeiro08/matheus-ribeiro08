@@ -6,7 +6,7 @@ Hi, my name is Matheus! ⚡
 
 - 📚 I’m a student in the Internet IT Technician program at WEG.
 - 🎯 I’m focused on learning how to develop systems and continually expanding my knowledge.
-- 📫 Contact: matheus_fa_ribeiro@estudante.sesisenai.org.br
+- 📫 Contact: matheusfelipe29112008@gmail.com
 
 </div>
 
